@@ -1,0 +1,3 @@
+SELECT * 
+FROM Orders 
+WHERE ShippedDate BETWEEN '1996-07-01' AND '1996-07-31';
